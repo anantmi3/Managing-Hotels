@@ -1,0 +1,9 @@
+hotels.Welcome$7
+hotels.Welcome
+hotels.Welcome$8
+hotels.Welcome$5
+hotels.Welcome$6
+hotels.Welcome$3
+hotels.Welcome$4
+hotels.Welcome$1
+hotels.Welcome$2
